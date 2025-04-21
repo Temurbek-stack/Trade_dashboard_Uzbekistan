@@ -7,7 +7,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Try the live app here](https://house-price-predictor-app.onrender.com/)
+🔗 [Try the live app here](https://temurbek-shinyapps.shinyapps.io/trade-dashboard-uzbekistan/)
 
 
 ---

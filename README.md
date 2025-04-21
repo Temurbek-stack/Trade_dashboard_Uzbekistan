@@ -5,6 +5,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [Try the live app here](https://house-price-predictor-app.onrender.com/)
+
+
+---
+
 ## 🎯 Purpose
 
 This dashboard serves several important purposes:
@@ -31,10 +38,4 @@ This dashboard serves several important purposes:
 - **R** and **Shiny** – for building the web application  
 - **plotly**, **ggplot2**, **DT** – for dynamic visualization and interaction  
 - Official data sources – e.g., Customs Committee, Statistics Agency of Uzbekistan  
-
----
-
-## 🌐 Live Demo
-
-🔗 [Try the live app here](https://temurbek-shinyapps.shinyapps.io/trade-dashboard-uzbekistan/)
 
